@@ -1,0 +1,3 @@
+iter,metric,CalotTriangleDissection,CleaningCoagulation,ClippingCutting,GallbladderDissection,GallbladderPackaging,GallbladderRetraction,Preparation,mean,accuracy
+23,Recall,0.84539914,0.7632504,0.77736634,0.8797284,0.8580215,0.7510548,0.6092333,0.7834363,0.8352002
+23,Precision,0.89031774,0.72872484,0.7057558,0.8558104,0.6873332,0.77923703,0.81447464,0.7802362,0.8352002
